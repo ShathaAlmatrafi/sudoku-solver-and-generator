@@ -1,7 +1,3 @@
-"""
-@author:  
-Ghadeer Milibary
-"""
 import time
 def solve(bo):
     find = find_empty(bo)
