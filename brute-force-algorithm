@@ -1,9 +1,4 @@
-'''
-@author
-Shatha Almatrafi
-
-note: Time Complexity will be referred to as TC
-'''
+# note: Time Complexity will be referred to as TC
 
 import time
 # Declaring the size of the 2D matrix 9*9
