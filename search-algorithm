@@ -1,7 +1,3 @@
-'''
-@author 
-Jwan Alameer
-'''
 import sys
 from copy import deepcopy
 import time 
