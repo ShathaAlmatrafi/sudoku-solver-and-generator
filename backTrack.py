@@ -1,5 +1,4 @@
-# A Backtracking program
-# in Python to solve Sudoku problem
+# Sudoku solver using Backtracking agorithm
 import time
 N = 9
  
