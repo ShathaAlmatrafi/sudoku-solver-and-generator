@@ -1,3 +1,4 @@
+# Sudoku solver using Backtracking agorithm (this repository includes two different codes that use backtracking)
 import time
 def solve(bo):
     find = find_empty(bo)
