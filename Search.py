@@ -1,3 +1,5 @@
+# Sudoku solver using Search agorithm
+
 import sys
 from copy import deepcopy
 import time 
