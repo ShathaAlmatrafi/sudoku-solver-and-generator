@@ -1,3 +1,5 @@
+# Sudoku solver using Brute Force agorithm
+
 # note: Time Complexity will be referred to as TC
 
 import time
