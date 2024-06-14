@@ -15,13 +15,3 @@ created using the Tinker library
 4.	Play option generates a random valid sudoku puzzle for the user to solve.
 5.	Click check to check if solution is correct so far, reset to generate a new puzzle, clear to clear entered digits, or exit to return to home page.
 6.	Exit option terminates the entire program.
-
-# References
-* GeeksforGeeks
-* StackOverFlow
-
-# Authors
-* Shatha Almatrafi (Me)
-* Ghadeer Milibary
-* Amjad Nasir
-* Jwan Alameer
